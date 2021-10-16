@@ -32,10 +32,10 @@
 ![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ## 🔭 Find me on 
 
-- Alexandre Freitas#9309 :: <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Alexandre Freitas#9309"> 
-- alexandrelfreitas :: <a href="https://www.linkedin.com/in/alexandrelfreitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-- alelfreitas ::  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="alelfreitas"> 
-- alelfreitas :: <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="alelfreitas"> 
+<p>Alexandre Freitas#9309 :: <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Alexandre Freitas#9309"> </p>
+<p>alexandrelfreitas :: <a href="https://www.linkedin.com/in/alexandrelfreitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+<p>alelfreitas ::  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="alelfreitas"> </p>
+<p>alelfreitas :: <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="alelfreitas"> </p>
 
 
 ![alelfreitas](https://github-readme-stats.vercel.app/api/top-langs/?username=alelfreitas)
