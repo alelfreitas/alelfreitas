@@ -1,4 +1,4 @@
-# Hello and welcome, I'm Alexandre, a developer from Brazil :brazil: !
+# Hello and welcome a developer from Brazil :brazil: !
 
 
 ## I know
